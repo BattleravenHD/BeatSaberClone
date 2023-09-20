@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6500f31be485312479844cd9be8d59d3, type: 3}
+  m_Name: Kubi Jam
+  m_EditorClassIdentifier: 
+  songName: Up In My Jam
+  audio: {fileID: 8300000, guid: 405bc33859ac1c24e8ad92f90b56bdd8, type: 3}
+  highScore: 0
+  songLength: 214
+  bias: 3
+  timeStep: 0.35
+  beatSpeed: 6.5
+  dodgeThreshold: 1
+  maxOtherSideBeats: 2

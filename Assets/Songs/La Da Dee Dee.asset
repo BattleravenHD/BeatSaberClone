@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6500f31be485312479844cd9be8d59d3, type: 3}
+  m_Name: La Da Dee Dee
+  m_EditorClassIdentifier: 
+  songName: La Da Dee Dee
+  audio: {fileID: 8300000, guid: 81a2b8a98c9ef01428d53761131a0a12, type: 3}
+  highScore: 628
+  songLength: 170
+  bias: 2
+  timeStep: 0.35
+  beatSpeed: 6.5
+  dodgeThreshold: 1
+  maxOtherSideBeats: 2
