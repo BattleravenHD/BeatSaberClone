@@ -1830,10 +1830,6 @@ PrefabInstance:
       value: Sword
       objectReference: {fileID: 0}
     - target: {fileID: 1785318083, guid: b1d6d4f94206a37419bfaea365720fe4, type: 3}
-      propertyPath: hand
-      value: 
-      objectReference: {fileID: 986996225}
-    - target: {fileID: 1785318083, guid: b1d6d4f94206a37419bfaea365720fe4, type: 3}
       propertyPath: playerStats
       value: 
       objectReference: {fileID: 1954246746}
@@ -2515,10 +2511,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sword
       objectReference: {fileID: 0}
-    - target: {fileID: 1785318083, guid: b1d6d4f94206a37419bfaea365720fe4, type: 3}
-      propertyPath: hand
-      value: 
-      objectReference: {fileID: 63640642}
     - target: {fileID: 1785318083, guid: b1d6d4f94206a37419bfaea365720fe4, type: 3}
       propertyPath: isRed
       value: 1
